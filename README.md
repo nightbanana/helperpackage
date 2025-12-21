@@ -64,6 +64,18 @@ Category	Packages Covered
 
 This version of HelperPackage was built specifically for Termux users.
 
+a quick install:
+
+```
+pkg up -y
+pkg i wget -y
+wget https://github.com/nightbanana/helperpackage/releases/download/latest/helperpackage_v1.1_aarch64.deb
+apt install ./helperpackage_v1.1_aarch64.deb 
+```
+
+> [!WARNING]
+> the package needs to be installed using "apt install ./", or the package will break.
+
 ---
 
 💻 Future Desktop (Linux) Version
