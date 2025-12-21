@@ -90,5 +90,5 @@ my discord: @night_dragon_0
 
 <details>
   <summary>Code Info</summary>
-  if you dont know if the project is open or closed source, check [the source notes](sourcenote.md)
+  if you dont know if the project is open or closed source, check the `sourcenote.md` file.
 </details>
