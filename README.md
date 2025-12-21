@@ -87,3 +87,8 @@ It provides quick, summarized learning slides for everyday CLI use.
 You can request new guide topics by messaging on Discord or opening an issue on the GitHub repo.
 
 my discord: @night_dragon_0
+
+<details>
+  <summary>Code Info</summary>
+  if you dont know if the project is open or closed source, check [the source notes](sourcenote.md)
+</details>
