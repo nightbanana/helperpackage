@@ -33,6 +33,15 @@ And, of course, see help:
 ```
 helperpackage -h
 ```
+
+also, you can look for updates using `--update` or `-u`:
+```
+helperpackage --update
+```
+or:
+```
+helperpackage -u
+```
 ---
 
 📚 Available Guides
